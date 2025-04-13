@@ -32,12 +32,12 @@ FOLDER STRUCTURE
 
 
 ml-pythagoras-hypotenuse/
-├── data/
-│   └── triangle_dataset.csv       # The generated synthetic dataset
 ├── src/
-│   └── model_train_predict.py     # The full Python code above
-├── README.md                      # Description of dataset, model, results, graphs
+     └── model_train_predict.py     # The full Python code above
+data/
+├── triangle_dataset.csv       # The generated synthetic dataset
 
+README.md   
 
 AUTHORS
 Vasileios Mavromitros
