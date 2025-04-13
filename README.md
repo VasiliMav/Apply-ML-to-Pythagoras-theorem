@@ -29,7 +29,7 @@ Give the option to the user to add input for new predictions.
 
 ### DATASET:
 
-- Size: a variety of samples ( 100-100.000) of synthetic right-angled triangles
+- Size: a variety of samples of synthetic right-angled triangles
 - Parameters :
   - `A`: First length (float, range: 1–100)
   - `B`: Second length (float, range: 1–100)
