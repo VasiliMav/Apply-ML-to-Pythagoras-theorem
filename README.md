@@ -27,7 +27,7 @@ Predict and visualize hypotenuse values based on new user inputs.
 STEP 5: USER INPUT AND NEW PREDICTIONS
 Give the option to the user to add input for new predictions.
 
-# DATASET DESCRIPTION:
+# DATASET:
 
 - Size: a variety of samples ( 100-100.000) of synthetic right-angled triangles
 - Parameters :
