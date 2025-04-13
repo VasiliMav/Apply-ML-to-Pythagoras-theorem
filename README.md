@@ -64,12 +64,12 @@ Graphical output includes:
 
 - Scatter plot of true vs predicted hypotenuse values.
 
-### INFERENCE:
+INFERENCE:
 
 Inference refers to the prediction phase using the model on new data.
 Once trained, the model can be used to predict the hypotenuse for any new right-angled triangle using the same formula learned during training.
 
-### RUN THE PROJECT:
+RUN THE PROJECT:
 
 To run the project locally:
 
@@ -86,12 +86,11 @@ See the used libraries in the Model Details.
 # RUN THE MODEL TRAINING & INFERENCE:
 python src/apply_ml_to_pythagoras_theorem
 
-
 ### AUTHORS
 Vasileios Mavromitros
 
 
-### ACKNOWLEDGEMENTS 
+ACKNOWLEDGEMENTS 
 
 
 Marita Georganta - Robotic Sensing Expert
