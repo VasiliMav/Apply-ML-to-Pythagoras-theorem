@@ -1,13 +1,13 @@
-### Apply-ML-to-Pythagoras-theorem
+# Apply-ML-to-Pythagoras-theorem
 
 ## MRAC01(24/25): Software III - Machine Learning for Robotic Fabrication
 
-# DESCRIPTION:
+### DESCRIPTION:
 
 This project explores the application of machine learning to predict the hypotenuse of right-angled triangles. Based on the well-known Pythagorean Theorem, where the hypotenuse \( c \) is computed as:
 [ c = \sqrt{a^2 + b^2} \]
 
-# OBJECTIVES: 
+### OBJECTIVES: 
 
 STEP 1: SYNTHETIC DATA GENERATION 
 Generate a dataset of right-angled triangles with random lengths.
@@ -27,7 +27,7 @@ Predict and visualize hypotenuse values based on new user inputs.
 STEP 5: USER INPUT AND NEW PREDICTIONS
 Give the option to the user to add input for new predictions.
 
-# DATASET:
+### DATASET:
 
 - Size: a variety of samples ( 100-100.000) of synthetic right-angled triangles
 - Parameters :
@@ -38,7 +38,7 @@ Give the option to the user to add input for new predictions.
 
 ---
 
-# MODEL DETAILS:
+### MODEL DETAILS:
 
 - Model Type: Linear Regression
 - Input : A, B (lengths of triangle)
@@ -51,7 +51,7 @@ Give the option to the user to add input for new predictions.
 
 ---
 
-# EVALUATION METRICS:
+### EVALUATION METRICS:
 
 The model is evaluated on the test set using the following metrics:
 
@@ -64,12 +64,12 @@ Graphical output includes:
 
 - Scatter plot of true vs predicted hypotenuse values.
 
-# INFERENCE:
+### INFERENCE:
 
 Inference refers to the prediction phase using the model on new data.
 Once trained, the model can be used to predict the hypotenuse for any new right-angled triangle using the same formula learned during training.
 
-# RUN THE PROJECT:
+### RUN THE PROJECT:
 
 To run the project locally:
 
