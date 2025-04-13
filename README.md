@@ -87,11 +87,11 @@ See the used libraries in the Model Details.
 python src/apply_ml_to_pythagoras_theorem
 
 
-AUTHORS
+### AUTHORS
 Vasileios Mavromitros
 
 
-ACKNOWLEDGEMENTS 
+### ACKNOWLEDGEMENTS 
 
 
 Marita Georganta - Robotic Sensing Expert
