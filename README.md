@@ -81,7 +81,7 @@ cd pythagoras-ml
 
 # INSTALL DEPENDENCIES: 
 pip install -r requirements.txt
-See the used libraries in the Model Details.
+#See the used libraries in the Model Details.
 
 # RUN THE MODEL TRAINING & INFERENCE:
 python src/apply_ml_to_pythagoras_theorem
