@@ -86,7 +86,9 @@ See the used libraries in the Model Details.
 # RUN THE MODEL TRAINING & INFERENCE:
 python src/apply_ml_to_pythagoras_theorem
 
-### AUTHORS
+
+
+AUTHORS
 Vasileios Mavromitros
 
 
