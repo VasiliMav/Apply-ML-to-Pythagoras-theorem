@@ -28,17 +28,6 @@ STEP 5: USER INPUT AND NEW PREDICTIONS
 Give the option to the user to add input for new predictions.
 
 
-FOLDER STRUCTURE
-
-
-ml-pythagoras-hypotenuse/
-├── src/
-     └── model_train_predict.py     # The full Python code above
-data/
-├── triangle_dataset.csv       # The generated synthetic dataset
-
-README.md   
-
 AUTHORS
 Vasileios Mavromitros
 
