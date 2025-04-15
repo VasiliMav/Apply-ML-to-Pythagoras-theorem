@@ -69,6 +69,8 @@ print(f"R² Score: {R2:.4f}")
 
 """#VISUALIZE DATA"""
 
+import matplotlib.pyplot as plt
+
 plt.scatter(Y_TEST, Y_PRED, alpha=0.5)  # For Visualization
 plt.xlabel("True Hypotenuse")
 plt.ylabel("Predicted Hypotenuse")
